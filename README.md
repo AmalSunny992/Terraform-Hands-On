@@ -1,2 +1,1 @@
-# Terraform-Hands-On
-Repository for Terraform-Hands-On practice
+# Hands-On : Terraform backend using S3 and Dynamodb with state locking
